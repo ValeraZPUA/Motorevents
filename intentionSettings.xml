@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Kotlin Android/Extract string resource" />
     <ignoreAction name="Kotlin/Move to companion object" />
+    <ignoreAction name="Kotlin/To raw string literal" />
   </component>
 </application>
