@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="fff" type="PLAIN_TEXT" />
+      <mapping pattern="dsad" type="PLAIN_TEXT" />
+      <mapping pattern="dcc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
